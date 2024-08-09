@@ -2,12 +2,10 @@ class Solution {
 public:
     bool subsetSum(int n, int k, vector<int>& arr) {
         vector<bool> prev(k + 1, false), cur(k + 1, false);
-        prev[0] = true; // Subset sum 0 is always possible
-
-        if (arr[0] <= k) {  // Ensure the first element does not exceed the target
+        prev[0] = true; 
+        if (arr[0] <= k) {  
             prev[arr[0]] = true;
         }
-
         for (int ind = 1; ind < n; ind++) {
             for (int target = 1; target <= k; target++) {
                 bool notTake = prev[target];
