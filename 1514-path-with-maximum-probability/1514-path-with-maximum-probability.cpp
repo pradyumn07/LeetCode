@@ -11,7 +11,7 @@ public:
             adj[v].push_back({u,prob});
         }
         priority_queue<pair<double,int>> pq;
-        //result[start]=1;
+        result[start_node]=1;
         pq.push({1.0,start_node});
         while(!pq.empty()){
             int currNode=pq.top().second;
