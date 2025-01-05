@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pradyumn07/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/pradyumn07/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/pradyumn07/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/pradyumn07/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/pradyumn07/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Array
 |  |
 | ------- |
@@ -68,8 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pradyumn07/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/pradyumn07/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pradyumn07/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/pradyumn07/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
