@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/pradyumn07/LeetCode/tree/master/0189-rotate-array) |
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
 | [1524-string-matching-in-an-array](https://github.com/pradyumn07/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/pradyumn07/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/pradyumn07/LeetCode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/pradyumn07/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
