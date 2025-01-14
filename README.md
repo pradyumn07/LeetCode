@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumn07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pradyumn07/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pradyumn07/LeetCode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/pradyumn07/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pradyumn07/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pradyumn07/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/pradyumn07/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pradyumn07/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumn07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pradyumn07/LeetCode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/pradyumn07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradyumn07/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumn07/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pradyumn07/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pradyumn07/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pradyumn07/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/pradyumn07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pradyumn07/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Counting
