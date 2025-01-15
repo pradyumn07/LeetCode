@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/pradyumn07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0952-word-subsets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradyumn07/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumn07/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/pradyumn07/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumn07/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
 | [0952-word-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1502-construct-k-palindrome-strings](https://github.com/pradyumn07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pradyumn07/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pradyumn07/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/pradyumn07/LeetCode/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1502-construct-k-palindrome-strings](https://github.com/pradyumn07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/pradyumn07/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
