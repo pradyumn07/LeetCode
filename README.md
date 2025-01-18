@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/pradyumn07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/pradyumn07/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradyumn07/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pradyumn07/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pradyumn07/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pradyumn07/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -267,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradyumn07/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
