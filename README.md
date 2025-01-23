@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/pradyumn07/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+| [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pradyumn07/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumn07/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/pradyumn07/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/pradyumn07/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
+| [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pradyumn07/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumn07/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumn07/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0952-word-subsets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradyumn07/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumn07/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumn07/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/pradyumn07/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pradyumn07/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumn07/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumn07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/pradyumn07/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
+| [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumn07/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumn07/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/pradyumn07/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/pradyumn07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/pradyumn07/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
