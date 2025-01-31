@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumn07/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/pradyumn07/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumn07/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1876-map-of-highest-peak](https://github.com/pradyumn07/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pradyumn07/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2047-find-a-peak-element-ii](https://github.com/pradyumn07/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1502-construct-k-palindrome-strings](https://github.com/pradyumn07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pradyumn07/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pradyumn07/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pradyumn07/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pradyumn07/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Biconnected Component
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/pradyumn07/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pradyumn07/LeetCode/tree/master/0283-move-zeroes) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pradyumn07/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
