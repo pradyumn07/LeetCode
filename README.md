@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/pradyumn07/LeetCode/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumn07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/pradyumn07/LeetCode/tree/master/0045-jump-game-ii) |
+| [0087-scramble-string](https://github.com/pradyumn07/LeetCode/tree/master/0087-scramble-string) |
 | [0213-house-robber-ii](https://github.com/pradyumn07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
