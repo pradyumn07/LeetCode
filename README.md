@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/pradyumn07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/pradyumn07/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1046-max-consecutive-ones-iii](https://github.com/pradyumn07/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradyumn07/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pradyumn07/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/pradyumn07/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/pradyumn07/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/pradyumn07/LeetCode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pradyumn07/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/pradyumn07/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/pradyumn07/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradyumn07/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pradyumn07/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumn07/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -357,5 +360,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/pradyumn07/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradyumn07/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
