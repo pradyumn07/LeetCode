@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pradyumn07/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/pradyumn07/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1364-tuple-with-same-product](https://github.com/pradyumn07/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/pradyumn07/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumn07/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/pradyumn07/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/pradyumn07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradyumn07/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/pradyumn07/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/pradyumn07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradyumn07/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
