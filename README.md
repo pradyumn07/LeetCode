@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradyumn07/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pradyumn07/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2434-design-a-number-container-system](https://github.com/pradyumn07/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pradyumn07/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradyumn07/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumn07/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumn07/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumn07/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2434-design-a-number-container-system](https://github.com/pradyumn07/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumn07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [2434-design-a-number-container-system](https://github.com/pradyumn07/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -389,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pradyumn07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/pradyumn07/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradyumn07/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/pradyumn07/LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
