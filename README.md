@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0952-word-subsets) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/pradyumn07/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/pradyumn07/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pradyumn07/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/pradyumn07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1517-restore-the-array](https://github.com/pradyumn07/LeetCode/tree/master/1517-restore-the-array) |
 | [1524-string-matching-in-an-array](https://github.com/pradyumn07/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/pradyumn07/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pradyumn07/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/pradyumn07/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pradyumn07/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pradyumn07/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/pradyumn07/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1503-reducing-dishes](https://github.com/pradyumn07/LeetCode/tree/master/1503-reducing-dishes) |
