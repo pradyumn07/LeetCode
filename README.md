@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/pradyumn07/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumn07/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2145-grid-game](https://github.com/pradyumn07/LeetCode/tree/master/2145-grid-game) |
+| [2262-solving-questions-with-brainpower](https://github.com/pradyumn07/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pradyumn07/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pradyumn07/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/pradyumn07/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/pradyumn07/LeetCode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pradyumn07/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pradyumn07/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/pradyumn07/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Shortest Path
 |  |
 | ------- |
