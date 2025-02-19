@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/pradyumn07/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pradyumn07/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/pradyumn07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pradyumn07/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1517-restore-the-array](https://github.com/pradyumn07/LeetCode/tree/master/1517-restore-the-array) |
 | [1524-string-matching-in-an-array](https://github.com/pradyumn07/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradyumn07/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/pradyumn07/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/pradyumn07/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pradyumn07/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/pradyumn07/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1906-maximize-score-after-n-operations](https://github.com/pradyumn07/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradyumn07/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
