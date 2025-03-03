@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/pradyumn07/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/pradyumn07/LeetCode/tree/master/2145-grid-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/pradyumn07/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pradyumn07/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pradyumn07/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pradyumn07/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/pradyumn07/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pradyumn07/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pradyumn07/LeetCode/tree/master/0283-move-zeroes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pradyumn07/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pradyumn07/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/pradyumn07/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pradyumn07/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pradyumn07/LeetCode/tree/master/0054-spiral-matrix) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pradyumn07/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pradyumn07/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/pradyumn07/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pradyumn07/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
