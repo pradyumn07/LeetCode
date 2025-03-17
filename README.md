@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/pradyumn07/LeetCode/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/pradyumn07/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pradyumn07/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1680-count-all-possible-routes](https://github.com/pradyumn07/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pradyumn07/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumn07/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-restore-the-array](https://github.com/pradyumn07/LeetCode/tree/master/1517-restore-the-array) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/pradyumn07/LeetCode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pradyumn07/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1680-count-all-possible-routes](https://github.com/pradyumn07/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pradyumn07/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/pradyumn07/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1906-maximize-score-after-n-operations](https://github.com/pradyumn07/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1680-count-all-possible-routes](https://github.com/pradyumn07/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/pradyumn07/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Data Stream
 |  |
