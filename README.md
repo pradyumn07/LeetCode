@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pradyumn07/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pradyumn07/LeetCode/tree/master/0283-move-zeroes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pradyumn07/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradyumn07/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pradyumn07/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/pradyumn07/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -555,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pradyumn07/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
