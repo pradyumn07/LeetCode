@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/pradyumn07/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradyumn07/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1105-uncrossed-lines](https://github.com/pradyumn07/LeetCode/tree/master/1105-uncrossed-lines) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/pradyumn07/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pradyumn07/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/pradyumn07/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1160-letter-tile-possibilities](https://github.com/pradyumn07/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/pradyumn07/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/pradyumn07/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/pradyumn07/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/pradyumn07/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1170-shortest-common-supersequence](https://github.com/pradyumn07/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/pradyumn07/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pradyumn07/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/pradyumn07/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pradyumn07/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
