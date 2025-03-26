@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumn07/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/pradyumn07/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/pradyumn07/LeetCode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pradyumn07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pradyumn07/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/pradyumn07/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradyumn07/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/pradyumn07/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/pradyumn07/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/pradyumn07/LeetCode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pradyumn07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/pradyumn07/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pradyumn07/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/pradyumn07/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pradyumn07/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pradyumn07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradyumn07/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pradyumn07/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/pradyumn07/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pradyumn07/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pradyumn07/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1906-maximize-score-after-n-operations](https://github.com/pradyumn07/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pradyumn07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/pradyumn07/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/pradyumn07/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pradyumn07/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
