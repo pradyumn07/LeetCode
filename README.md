@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/pradyumn07/LeetCode/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumn07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0392-is-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/pradyumn07/LeetCode/tree/master/0087-scramble-string) |
 | [0213-house-robber-ii](https://github.com/pradyumn07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pradyumn07/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/pradyumn07/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pradyumn07/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pradyumn07/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradyumn07/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
