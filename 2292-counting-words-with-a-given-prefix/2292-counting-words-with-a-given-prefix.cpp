@@ -1,19 +1,22 @@
 class Solution {
 public:
-    bool isPrefix(string &s1,string &s2){
-        int m=s1.size();
-        int n=s2.size();
-        for(int i=0;s2[i]!='\0';i++){
-            if(s1[i]!=s2[i]) return false;
+    bool isPrefix(const string& w, const string& p){
+        int i=0;
+        while(i<p.size()){
+            if(w[i]!=p[i])
+                return false;
+            i++;
         }
         return true;
     }
     int prefixCount(vector<string>& words, string pref) {
-        int n=words.size();
-        int count=0;
-        for(int i=0;i<n;i++){
-            if(isPrefix(words[i],pref)) count++;
+        int ans=0;
+        for(int i=0; i<words.size(); i++){
+            if(words[i].size()<pref.size())
+                continue;
+            if(isPrefix(words[i], pref))
+                ans++;
         }
-        return count;
+        return ans;
     }
 };
