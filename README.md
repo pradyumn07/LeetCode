@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/pradyumn07/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/pradyumn07/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pradyumn07/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/pradyumn07/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/pradyumn07/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/pradyumn07/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2562-count-ways-to-build-good-strings](https://github.com/pradyumn07/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/pradyumn07/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/pradyumn07/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pradyumn07/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pradyumn07/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/pradyumn07/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Trie
 |  |
 | ------- |
@@ -659,4 +662,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pradyumn07/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/pradyumn07/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 <!---LeetCode Topics End-->
