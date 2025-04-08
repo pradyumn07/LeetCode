@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pradyumn07/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pradyumn07/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/pradyumn07/LeetCode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3790-fruits-into-baskets-ii](https://github.com/pradyumn07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pradyumn07/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/pradyumn07/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/pradyumn07/LeetCode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/pradyumn07/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/pradyumn07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pradyumn07/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradyumn07/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/pradyumn07/LeetCode/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/pradyumn07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pradyumn07/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Recursion
 |  |
@@ -676,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pradyumn07/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/pradyumn07/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/pradyumn07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
