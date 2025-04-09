@@ -6,8 +6,9 @@ public:
         if(dp[i][buy]!=-1) return dp[i][buy];
         if(buy==1){
             return dp[i][buy]=max(-prices[i]+solve(i+1,0,prices),solve(i+1,1,prices));
-        }
+        } else {
         return dp[i][buy]=max(prices[i]+solve(i+2,1,prices),solve(i+1,0,prices));
+        }
     }
     int maxProfit(vector<int>& prices) {
         memset(dp,-1,sizeof(dp));
