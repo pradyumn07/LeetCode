@@ -1,23 +1,24 @@
 class Solution {
 public:
+    int longestCommonSubsequence(string text1, string text2) {
+        int n=text1.length();
+        int m=text2.length();
+        vector<int> prev(m+1,0),cur(m+1,0);
+
+        for(int j=0;j<=m;j++) prev[j]=0;
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                if(text1[i-1]==text2[j-1]) cur[j]=1+prev[j-1];
+                else cur[j]=max(prev[j],cur[j-1]);
+            }
+            prev=cur;
+        }
+        return prev[m];
+    }
     int longestPalindromeSubseq(string s) {
         int n=s.length();
-        vector<vector<int>> dp(n,vector<int>(n));
-        for(int i=0;i<n;i++){
-            dp[i][i]=1;
-
-        }
-        for(int j=2;j<=n;j++){
-            for(int i=0;i<n-j+1;i++){
-                int k=i+j-1;
-                if(s[i]==s[k]){
-                    dp[i][k]=2+dp[i+1][k-1];
-                } else {
-                    dp[i][k]=max(dp[i][k-1],dp[i+1][k]);
-                }
-
-            }
-        }
-        return dp[0][n-1];
+        string t=s;
+        reverse(t.begin(),t.end());
+        return longestCommonSubsequence(s,t);
     }
 };
