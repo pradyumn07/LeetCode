@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/pradyumn07/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/pradyumn07/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/pradyumn07/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/pradyumn07/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/pradyumn07/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/pradyumn07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/pradyumn07/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/pradyumn07/LeetCode/tree/master/0087-scramble-string) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/pradyumn07/LeetCode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/pradyumn07/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/pradyumn07/LeetCode/tree/master/2050-count-good-numbers) |
 ## Design
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/pradyumn07/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/pradyumn07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pradyumn07/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
