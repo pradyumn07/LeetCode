@@ -10,8 +10,10 @@ public:
             if(nums[i]<minK || nums[i]>maxK) bad=i;
             if(nums[i]==minK) mini=i;
             if(nums[i]==maxK) maxi=i;
+            if(mini!=-1 && maxi!=-1){
             int small=min(mini,maxi);
             ans+=max(0,small-bad);
+            }
         }
         return ans;
     }
