@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/pradyumn07/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pradyumn07/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pradyumn07/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/pradyumn07/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/pradyumn07/LeetCode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3790-fruits-into-baskets-ii](https://github.com/pradyumn07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pradyumn07/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
