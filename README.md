@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/pradyumn07/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumn07/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/pradyumn07/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/pradyumn07/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pradyumn07/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumn07/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/pradyumn07/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/pradyumn07/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0797-rabbits-in-forest](https://github.com/pradyumn07/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/pradyumn07/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pradyumn07/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/pradyumn07/LeetCode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pradyumn07/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
