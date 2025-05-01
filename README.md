@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/pradyumn07/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/pradyumn07/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pradyumn07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pradyumn07/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pradyumn07/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/pradyumn07/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/pradyumn07/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/pradyumn07/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pradyumn07/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/pradyumn07/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pradyumn07/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradyumn07/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pradyumn07/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pradyumn07/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/pradyumn07/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pradyumn07/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pradyumn07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pradyumn07/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradyumn07/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pradyumn07/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/pradyumn07/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/pradyumn07/LeetCode/tree/master/1503-reducing-dishes) |
 | [1829-maximum-units-on-a-truck](https://github.com/pradyumn07/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumn07/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pradyumn07/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pradyumn07/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradyumn07/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/pradyumn07/LeetCode/tree/master/2509-minimize-xor) |
@@ -763,12 +767,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pradyumn07/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pradyumn07/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pradyumn07/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pradyumn07/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pradyumn07/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pradyumn07/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pradyumn07/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Combinatorics
 |  |
