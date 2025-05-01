@@ -20,28 +20,20 @@ public:
     int maxTaskAssign(vector<int>& tasks, vector<int>& workers, int pills, int strength) {
         int m = tasks.size();
         int n = workers.size();
-
         int l = 0;
         int r = min(m, n);
-
-        sort(begin(tasks), end(tasks));
-        sort(begin(workers), end(workers), greater<int>());
-
+        sort(begin(tasks),end(tasks));
+        sort(begin(workers),end(workers),greater<int>());
         int result = 0;
-
         while(l <= r) {
-            int mid = l + (r-l)/2;
-
-            if(check(tasks, workers, pills, strength, mid)) {
-                result = mid;
-                l = mid+1;
+            int mid=l+(r-l)/2;
+            if(check(tasks,workers,pills,strength,mid)) {
+                result=mid;
+                l=mid+1;
             } else {
-                r = mid-1;
+                r=mid-1;
             }
         }
-
         return result;
-
-
     }
 };
