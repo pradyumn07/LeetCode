@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pradyumn07/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/pradyumn07/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pradyumn07/LeetCode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/pradyumn07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pradyumn07/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pradyumn07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pradyumn07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/pradyumn07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pradyumn07/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumn07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/pradyumn07/LeetCode/tree/master/0217-contains-duplicate) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pradyumn07/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/pradyumn07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumn07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/pradyumn07/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
