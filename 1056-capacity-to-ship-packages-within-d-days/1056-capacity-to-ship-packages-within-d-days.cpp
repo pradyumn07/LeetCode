@@ -1,33 +1,35 @@
 class Solution {
 public:
-
-    int findDays(vector<int> &weights,int cap){
-        int days=1,load=0;
+    int findDays(vector<int> &weights,int mid){
+        int count=0,d=0;
         for(int i=0;i<weights.size();i++){
-            if(load+weights[i]>cap){
-                days=days+1;
-                load=weights[i];
+            count+=weights[i];
+            if(count>mid){
+                count=0;
+                d++;
+                i--;
             }
-            else{
-                load+=weights[i];
-            }
-            
         }
-        return days;
+        return d+1;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int low=*max_element(weights.begin(),weights.end());
-        int high=accumulate(weights.begin(),weights.end(),0);
-        while(low<=high){
-            int mid=(low+high)/2;
-            int nodays=findDays(weights,mid);
-            if(nodays<=days){
-                high=mid-1;
-            }
-            else{
-                low=mid+1;
-            }
+       int low=*max_element(begin(weights),end(weights));
+       int total=0;
+       for(int i=0;i<weights.size();i++){
+        total+=weights[i];
+       } 
+       int high=total;
+       int ans;
+       while(low<=high){
+        int mid=low+(high-low)/2;
+        int day=findDays(weights,mid);
+        if(day<=days){
+            ans=mid;
+            high=mid-1;
+        } else{
+            low=mid+1;
         }
-        return low;
+       }
+       return ans;
     }
 };
