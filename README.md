@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/pradyumn07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0911-profitable-schemes](https://github.com/pradyumn07/LeetCode/tree/master/0911-profitable-schemes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0941-sort-array-by-parity](https://github.com/pradyumn07/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/pradyumn07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/pradyumn07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/pradyumn07/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pradyumn07/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
+| [0941-sort-array-by-parity](https://github.com/pradyumn07/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pradyumn07/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1503-reducing-dishes](https://github.com/pradyumn07/LeetCode/tree/master/1503-reducing-dishes) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/pradyumn07/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/pradyumn07/LeetCode/tree/master/0868-push-dominoes) |
+| [0941-sort-array-by-parity](https://github.com/pradyumn07/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pradyumn07/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradyumn07/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
