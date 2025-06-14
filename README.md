@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/pradyumn07/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/pradyumn07/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pradyumn07/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/pradyumn07/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/pradyumn07/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/pradyumn07/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradyumn07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradyumn07/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/pradyumn07/LeetCode/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/pradyumn07/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/pradyumn07/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/pradyumn07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradyumn07/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/pradyumn07/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
