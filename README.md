@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/pradyumn07/LeetCode/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/pradyumn07/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pradyumn07/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/pradyumn07/LeetCode/tree/master/2050-count-good-numbers) |
 ## Design
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/pradyumn07/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/pradyumn07/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pradyumn07/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pradyumn07/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Queue
