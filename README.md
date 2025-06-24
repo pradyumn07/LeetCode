@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pradyumn07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/pradyumn07/LeetCode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/pradyumn07/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/pradyumn07/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/pradyumn07/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/pradyumn07/LeetCode/tree/master/0115-distinct-subsequences) |
