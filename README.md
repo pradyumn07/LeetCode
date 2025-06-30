@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/pradyumn07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0911-profitable-schemes](https://github.com/pradyumn07/LeetCode/tree/master/0911-profitable-schemes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0932-monotonic-array](https://github.com/pradyumn07/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/pradyumn07/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/pradyumn07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
