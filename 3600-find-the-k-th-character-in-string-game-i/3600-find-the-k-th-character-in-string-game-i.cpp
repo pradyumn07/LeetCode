@@ -5,7 +5,6 @@ public:
         while (word.length() < k) {
             string gen = "";
             for (char ch : word) {
-                // get next character in alphabet (wrap 'z' → 'a')
                 gen += (ch == 'z') ? 'a' : ch + 1;
             }
             word += gen;
