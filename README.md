@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/pradyumn07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pradyumn07/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/pradyumn07/LeetCode/tree/master/0744-network-delay-time) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/pradyumn07/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/pradyumn07/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/pradyumn07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pradyumn07/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/pradyumn07/LeetCode/tree/master/0744-network-delay-time) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/pradyumn07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pradyumn07/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/pradyumn07/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pradyumn07/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/pradyumn07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pradyumn07/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
