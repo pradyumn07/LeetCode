@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/pradyumn07/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/pradyumn07/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/pradyumn07/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pradyumn07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pradyumn07/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pradyumn07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/pradyumn07/LeetCode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/pradyumn07/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/pradyumn07/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/pradyumn07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/pradyumn07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pradyumn07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumn07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/pradyumn07/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/pradyumn07/LeetCode/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/pradyumn07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/pradyumn07/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/pradyumn07/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/pradyumn07/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/pradyumn07/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pradyumn07/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pradyumn07/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
