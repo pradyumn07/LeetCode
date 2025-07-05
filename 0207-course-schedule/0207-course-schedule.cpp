@@ -3,7 +3,7 @@ public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
        vector<vector<int>> adj(numCourses);
         for(auto it:prerequisites){
-            adj[it[1]].push_back(it[0]);
+            adj[it[0]].push_back(it[1]);
         }
         vector<int> indegree(numCourses, 0);
         for(int i=0;i<numCourses;i++){
