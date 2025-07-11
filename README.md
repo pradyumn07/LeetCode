@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pradyumn07/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pradyumn07/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradyumn07/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/pradyumn07/LeetCode/tree/master/0130-surrounded-regions) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pradyumn07/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pradyumn07/LeetCode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/pradyumn07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/pradyumn07/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/pradyumn07/LeetCode/tree/master/0207-course-schedule) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pradyumn07/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pradyumn07/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradyumn07/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/pradyumn07/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pradyumn07/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pradyumn07/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradyumn07/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/pradyumn07/LeetCode/tree/master/0199-binary-tree-right-side-view) |
