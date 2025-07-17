@@ -1,16 +1,16 @@
 class Solution {
 public:
-    
-    int findWays(int n,vector<int> &dp){
-        if(n==0) return 1;
-        if(n==1) return 1;
-        if(dp[n]!=-1) return dp[n];
-        int left=findWays(n-2,dp);
-        int right=findWays(n-1,dp);
-        return dp[n]= left+right;
+    int dp[46];
+    int solve(int ind){
+        if(ind==0) return 1;
+        if(ind ==1) return 1;
+        if(dp[ind]!=-1) return dp[ind];
+        int one=solve(ind-1);
+        int two=solve(ind-2);
+        return dp[ind]=one+two;
     }
     int climbStairs(int n) {
-        vector<int> dp(n+1,-1);
-        return findWays(n,dp);
+        memset(dp,-1,sizeof(dp));
+        return solve(n);
     }
 };
