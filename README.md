@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/pradyumn07/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/pradyumn07/LeetCode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/pradyumn07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/pradyumn07/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/pradyumn07/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/pradyumn07/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pradyumn07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/pradyumn07/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/pradyumn07/LeetCode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/pradyumn07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pradyumn07/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/pradyumn07/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pradyumn07/LeetCode/tree/master/0268-missing-number) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pradyumn07/LeetCode/tree/master/0070-climbing-stairs) |
 | [1680-count-all-possible-routes](https://github.com/pradyumn07/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pradyumn07/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/pradyumn07/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
