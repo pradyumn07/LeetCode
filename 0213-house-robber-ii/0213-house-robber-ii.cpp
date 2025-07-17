@@ -1,22 +1,25 @@
 class Solution {
 public:
-    int t[101];
-    int findWays(int n, vector<int>& nums, int i) {
-        if (i >= n) return 0; 
-        if (t[i]!=-1) return t[i];
-        int rob=nums[i]+findWays(n,nums,i+2); 
-        int skip=findWays(n,nums,i+1);         
-        return t[i] = max(rob, skip);
+    int dp[1001];
+    int n;
+    int solve(int ind,vector<int>& nums){
+        if(ind==0) return nums[ind];
+        if(ind<0) return 0;
+        if(dp[ind]!=-1) return dp[ind];
+        int pick=nums[ind]+solve(ind-2,nums);
+        int notpick=solve(ind-1,nums);
+        return dp[ind]=max(pick,notpick);
     }
-
     int rob(vector<int>& nums) {
-        int n=nums.size();
-        if (n==1) return nums[0];
-        if (n==2) return max(nums[0],nums[1]);
-        memset(t, -1, sizeof(t));
-        int robFirst =findWays(n-1,nums,0); 
-        memset(t,-1,sizeof(t));
-        int robSecond =findWays(n,nums,1); 
-        return max(robFirst,robSecond); 
+        n=nums.size();
+        if(n==0) return 0;
+        if(n==1) return nums[0];
+        memset(dp,-1,sizeof(dp));
+        vector<int> temp1(nums.begin() + 1, nums.end());     // exclude first
+        vector<int> temp2(nums.begin(), nums.end() - 1); 
+        int ans1=solve(temp1.size()-1,temp1);
+        memset(dp,-1,sizeof(dp));
+        int ans2=solve(temp2.size()-1,temp2);
+        return max(ans1,ans2);
     }
 };
