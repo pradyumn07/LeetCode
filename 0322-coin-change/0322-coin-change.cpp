@@ -1,23 +1,24 @@
 class Solution {
 public:
+    int n;
+    int dp[13][10001];
+    int solve(int ind,int target,vector<int>& coins){
+        if(target==0) return 0;
+        if(ind==0){
+            if(target%coins[ind]==0) return target/coins[ind];
+            else return 1e9;
+        }
+        if(dp[ind][target]!=-1) return dp[ind][target];
+        int notpick=solve(ind-1,target,coins);
+        int pick=INT_MAX;
+        if(target>=coins[ind]) pick=1+solve(ind,target-coins[ind],coins);
+        return dp[ind][target]=min(pick,notpick);
+    }
     int coinChange(vector<int>& coins, int amount) {
-        int n=coins.size();
-        vector<int> prev(amount+1,0),cur(amount+1,0);
-        for(int i=0;i<=amount;i++){
-            if(i%coins[0]==0) prev[i]=i/coins[0];
-            else prev[i]=1e9;
-        }
-        for(int ind=1;ind<n;ind++){
-            for(int T=0;T<=amount;T++){
-                int notTake=0+prev[T];
-                int take=INT_MAX;
-                if(coins[ind]<=T) take=1+cur[T-coins[ind]];
-                cur[T]=min(take,notTake);
-            }
-            prev=cur;
-        }
-        int ans=prev[amount];
-        if(ans==1e9) return -1;
-        return ans;
+        n=coins.size();
+        sort(coins.begin(),coins.end());
+        memset(dp,-1,sizeof(dp));
+        int ans= solve(n-1,amount,coins);
+        return ans!=1e9?ans:-1;        
     }
 };
