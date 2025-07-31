@@ -6,7 +6,7 @@ public:
         int ans=0;
         while(j<nums.size()){
             if(nums[j]==0) zeros++;
-            while(zeros>k){
+            if(zeros>k){
                 if(nums[i]==0) zeros--;
                 i++;
             }
