@@ -24,7 +24,7 @@ public:
         // int rh=max(0,maxPath(root->right,maxi));
         // maxi=max(maxi,lh+rh+root->val);
         // return root->val+max(lh,rh);
-        int maxi=0;
+        int maxi=INT_MIN;
         maxPath(root,maxi);
         return maxi;
 
