@@ -11,28 +11,21 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root,vector<int>& arr){
+    void solve(TreeNode* root,map<int,int>& mp){
         if(root==NULL) return;
-        inorder(root->left,arr);
-        arr.push_back(root->val);
-        inorder(root->right,arr);
+        mp[root->val]++;
+        solve(root->left,mp);
+        solve(root->right,mp);
     }
     bool findTarget(TreeNode* root, int k) {
-        vector<int> arr;
-        inorder(root,arr);
-        int i=0;
-        int j=arr.size()-1;
-        
-        while(i<j){
-            int sum=arr[i]+arr[j];
-            if(sum==k) return true;
-            else if(sum<k){
-                i++;
-            }
-            else{
-                
-                j--;
-            }
+        map<int,int> mp;
+        if(root==NULL) return false;
+        if(root->left==NULL && root->right==NULL) return false;
+        solve(root,mp);
+        for(auto &it:mp){
+            int diff=k-it.first;
+            mp.erase(it.first);
+            if(mp.find(diff)!=mp.end()) return true;
         }
         return false;
     }
