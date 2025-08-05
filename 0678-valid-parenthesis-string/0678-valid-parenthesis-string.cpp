@@ -1,26 +1,19 @@
 class Solution {
 public:
+    int n;
+    int dp[101][101];
+    bool solve(int ind,string& s,int cnt){
+        if(cnt==-1) return false;
+        if(ind==n) return cnt==0;
+        if(dp[ind][cnt]!=-1) return dp[ind][cnt];
+        if(s[ind]=='(') return solve(ind+1,s,cnt+1);
+        if(s[ind]==')') return solve(ind+1,s,cnt-1);
+        return dp[ind][cnt]=solve(ind+1,s,cnt)||solve(ind+1,s,cnt+1) || solve(ind+1,s,cnt-1);
+    }
     bool checkValidString(string s) {
-        int min=0,max=0;
-        int n=s.length();
-        for(int i=0;i<n;i++){
-            if(s[i]=='('){
-                min=min+1;
-                max=max+1;
-            }
-            else if(s[i]==')'){
-                min=min-1;
-                max=max-1;
-            }
-            else{
-                min=min-1;
-                max=max+1;
-            }
-            if(min<0) min=0;
-            if(max<0) return false;
-        
-        
-        }
-        return (min==0);
+        n=s.length();
+        memset(dp,-1,sizeof(dp));
+        return solve(0,s,0);
+
     }
 };
