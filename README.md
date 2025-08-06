@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pradyumn07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/pradyumn07/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/pradyumn07/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/pradyumn07/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pradyumn07/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/pradyumn07/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pradyumn07/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/pradyumn07/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/pradyumn07/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/pradyumn07/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pradyumn07/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pradyumn07/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/pradyumn07/LeetCode/tree/master/0070-climbing-stairs) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/pradyumn07/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/pradyumn07/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/pradyumn07/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradyumn07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/pradyumn07/LeetCode/tree/master/0605-can-place-flowers) |
