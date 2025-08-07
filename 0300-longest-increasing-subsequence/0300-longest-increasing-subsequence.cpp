@@ -1,22 +1,22 @@
 class Solution {
 public:
-    
-    int dp[2501][2501];
-    int solve(vector<int>& nums,int n,int i, int p){
-        if(i>=n) return 0;
+    int n;
+    int dp[2502][2502];
+    int solve(int p,int ind,vector<int>& nums){
+        if(ind>=n) return 0;
+        if(p!=-1 && dp[ind][p]!=-1) return dp[ind][p];
         int take=0;
-        if(p!=-1 && dp[i][p]!=-1) return dp[i][p];
-        if(p==-1||nums[p]<nums[i]){
-            take=1+solve(nums,n,i+1,i);
+        if(p==-1 || nums[p]<nums[ind]){
+            take=1+solve(ind,ind+1,nums);
         }
-        int skip=solve(nums,n,i+1,p);
-        if(p!=-1) dp[i][p]=max(take,skip);
+        int skip=solve(p,ind+1,nums);
+        if(p!=-1) dp[ind][p]=max(take,skip);
         return max(take,skip);
     }
     int lengthOfLIS(vector<int>& nums) {
-        int n=nums.size();
+        n=nums.size();
+
         memset(dp,-1,sizeof(dp));
-        return solve(nums,n,0,-1);
-         
+        return solve(-1,0,nums);
     }
 };
