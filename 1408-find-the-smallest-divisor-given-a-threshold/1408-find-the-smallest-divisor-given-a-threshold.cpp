@@ -3,7 +3,8 @@ public:
     bool isPossible(int mid,vector<int>& nums,int threshold){
         int sum=0;
         for(int i=0;i<nums.size();i++){
-            sum+=ceil((double)nums[i]/(double)mid);
+            sum+=nums[i]/mid;
+            if(nums[i]%mid!=0) sum+=1;
         }
         return sum<=threshold;
     }
