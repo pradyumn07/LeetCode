@@ -1,34 +1,24 @@
 class Solution {
 public:
-    int findMax(vector<int> &nums){
-        int maxi=INT_MIN;
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            maxi=max(nums[i],maxi);
+    bool isPossible(int mid,vector<int>& nums,int threshold){
+        int sum=0;
+        for(int i=0;i<nums.size();i++){
+            sum+=ceil((double)nums[i]/(double)mid);
         }
-        return maxi;
-    }
-    int calculate(vector<int> &nums,int hours){
-        int total=0;
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            total+=ceil((double)nums[i]/(double)hours);
-        }
-        return total;
+        return sum<=threshold;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int low=1;
-        int high=findMax(nums);
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(calculate(nums,mid)<=threshold){
-                high=mid-1;
-
-            }
-            else{
-                low=mid+1;
+        int l=1,r=*max_element(nums.begin(),nums.end());
+        int ans;
+        while(l<=r){
+            int mid=l+(r-l)/2;
+            if(isPossible(mid,nums,threshold)){
+                ans=mid;
+                r=mid-1;
+            } else{
+                l=mid+1;
             }
         }
-        return low;
+        return ans;
     }
 };
