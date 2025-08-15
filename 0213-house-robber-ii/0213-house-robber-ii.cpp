@@ -15,7 +15,7 @@ public:
         if(n==0) return 0;
         if(n==1) return nums[0];
         memset(dp,-1,sizeof(dp));
-        vector<int> temp1(nums.begin() + 1, nums.end());     // exclude first
+        vector<int> temp1(nums.begin() + 1, nums.end()); 
         vector<int> temp2(nums.begin(), nums.end() - 1); 
         int ans1=solve(temp1.size()-1,temp1);
         memset(dp,-1,sizeof(dp));
