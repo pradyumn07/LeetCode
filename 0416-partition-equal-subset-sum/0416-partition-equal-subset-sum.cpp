@@ -1,35 +1,40 @@
 class Solution {
 public:
-    bool subsetSum(int n, int k, vector<int>& arr) {
-        vector<bool> prev(k + 1, false), cur(k + 1, false);
-        prev[0] = true; 
-        if (arr[0] <= k) {  
-            prev[arr[0]] = true;
-        }
-        for (int ind = 1; ind < n; ind++) {
-            for (int target = 1; target <= k; target++) {
-                bool notTake = prev[target];
-                bool take = false;
-                if (arr[ind] <= target) {
-                    take = prev[target - arr[ind]];
-                }
-                cur[target] = take || notTake;
-            }
-            prev = cur;
-        }
-        return prev[k];
+    int dp[202][20002];
+    bool solve(int ind,int target,vector<int>& nums){
+        if(ind>0 && target==0) return true;
+        if(ind==0) return nums[ind]==target;
+        if(dp[ind][target]!=-1) return dp[ind][target];
+        bool take=false;
+        if(target>=nums[ind]) take=solve(ind-1,target-nums[ind],nums);
+        bool nottake=solve(ind-1,target,nums);
+        return dp[ind][target]=take|nottake;
+        
     }
-
     bool canPartition(vector<int>& nums) {
-        int total = 0;
-        int n = nums.size();
-        for (int i = 0; i < nums.size(); i++) {
-            total += nums[i];
+        int total=accumulate(nums.begin(),nums.end(),0);
+        int target;
+        if(total%2!=0) return false;
+        else {
+            target=total/2;
         }
-        if (total % 2 != 0) {
-            return false;
-        }
-        int target = total / 2;
-        return subsetSum(n, target, nums);
+        int n=nums.size();
+        memset(dp,-1,sizeof(dp));
+        return solve(n-1,target,nums);
+        // vector<vector<bool>> dp(n,vector<bool>(target+1,false));
+        
+        // for(int i=0;i<n;i++) dp[i][0]=true;
+        // if(nums[0]<=target) dp[0][nums[0]]=true;
+        // for(int i=1;i<n;i++){
+        //     for(int j=1;j<=target;j++){
+        //         bool nottake=dp[i-1][j];
+        //         bool take=false;
+        //         if(nums[i]<=j){
+        //             take=dp[i-1][j-nums[i]];
+        //         }
+        //         dp[i][j]=take || nottake;
+        //     }
+        // }
+        // return dp[n-1][target];
     }
 };
