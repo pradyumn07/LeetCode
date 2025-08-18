@@ -1,22 +1,6 @@
 class Solution {
 public:
-    // int dp[1001][1001];
-    // void solve(int i,vector<int> &nums,vector<int> &ans,vector<int> &temp,int prev){
-    //     if(i>=nums.size()){
-    //         if(temp.size()>ans.size()){
-    //             ans=temp;
-    //         }
-    //         return;
-    //     }
-    //     if(dp[i][prev]!=-1) return dp[i][prev];
-    //     if(prev==-1 || nums[i]%prev==0){
-    //         temp.push_back(nums[i]);
-    //         solve(i+1,nums,ans,temp,nums[i]);
-    //         temp.pop_back();
-    //     }
-    //     solve(i+1,nums,ans,temp,prev);
-    // }
-    vector<int> largestDivisibleSubset(vector<int>& nums) {
+   vector<int> largestDivisibleSubset(vector<int>& nums) {
         int n=nums.size();
         vector<int> ans;
         sort(begin(nums),end(nums));
