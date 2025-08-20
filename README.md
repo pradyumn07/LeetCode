@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pradyumn07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/pradyumn07/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/pradyumn07/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/pradyumn07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/pradyumn07/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumn07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pradyumn07/LeetCode/tree/master/0268-missing-number) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pradyumn07/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumn07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/pradyumn07/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/pradyumn07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pradyumn07/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pradyumn07/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/pradyumn07/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pradyumn07/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/pradyumn07/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/pradyumn07/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/pradyumn07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pradyumn07/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/pradyumn07/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/pradyumn07/LeetCode/tree/master/0389-find-the-difference) |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/pradyumn07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pradyumn07/LeetCode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pradyumn07/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
