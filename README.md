@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pradyumn07/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/pradyumn07/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/pradyumn07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/pradyumn07/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/pradyumn07/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/pradyumn07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/pradyumn07/LeetCode/tree/master/0518-coin-change-ii) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pradyumn07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumn07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/pradyumn07/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/pradyumn07/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/pradyumn07/LeetCode/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/pradyumn07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pradyumn07/LeetCode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/pradyumn07/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/pradyumn07/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/pradyumn07/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/pradyumn07/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
