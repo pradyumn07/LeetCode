@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/pradyumn07/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/pradyumn07/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/pradyumn07/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pradyumn07/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/pradyumn07/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/pradyumn07/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/pradyumn07/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pradyumn07/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/pradyumn07/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pradyumn07/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/pradyumn07/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/pradyumn07/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/pradyumn07/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pradyumn07/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
