@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/pradyumn07/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/pradyumn07/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/pradyumn07/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/pradyumn07/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumn07/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumn07/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/pradyumn07/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/pradyumn07/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pradyumn07/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/pradyumn07/LeetCode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/pradyumn07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
