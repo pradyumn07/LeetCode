@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/pradyumn07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/pradyumn07/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/pradyumn07/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/pradyumn07/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pradyumn07/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pradyumn07/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/pradyumn07/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/pradyumn07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/pradyumn07/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/pradyumn07/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pradyumn07/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/pradyumn07/LeetCode/tree/master/1364-tuple-with-same-product) |
