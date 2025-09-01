@@ -8,7 +8,7 @@ public:
         int ans=0;
         while(r<n){
             f[s[r]-'A']++;
-            maxF=max(maxF, f[s[r]-'A']);
+            maxF=max(maxF,f[s[r]-'A']);
             if((r-l+1)-maxF>k){
                 f[s[l]-'A']--;
                 l++;
