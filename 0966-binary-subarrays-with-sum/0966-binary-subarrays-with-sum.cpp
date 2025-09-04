@@ -1,23 +1,23 @@
 class Solution {
 public:
-    long long find(vector<int> &nums,int g){
-        if (g < 0) return 0;
-        int i=0,j=0;
-        long long sum=0,count=0;
-        while(j < nums.size()){
-            sum+=nums[j];
-            while(sum>g){
-                sum=sum-nums[i];
-                i++;
+    long long maxarray(vector<int>& nums,int goal){
+        if(goal<0) return 0;
+        int n=nums.size();
+        int l=0,r=0;
+        long long ans=0;
+        long long sum=0;
+        while(r<n){
+            sum+=nums[r];
+            while(l<n && sum>goal){
+                sum=sum-nums[l];
+                l++;
             }
-            count+=j-i+1;
-            j++;
+            ans=ans+(r-l+1);
+            r++;
         }
-        return count;
+        return ans;
     }
     int numSubarraysWithSum(vector<int>& nums, int goal) {
-        
-        int n=nums.size();
-        return find(nums,goal)-find(nums,goal-1);
+        return maxarray(nums,goal)-maxarray(nums,goal-1);
     }
 };
