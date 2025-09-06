@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pradyumn07/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/pradyumn07/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/pradyumn07/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pradyumn07/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/pradyumn07/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/pradyumn07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/pradyumn07/LeetCode/tree/master/0414-third-maximum-number) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pradyumn07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pradyumn07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pradyumn07/LeetCode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pradyumn07/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/pradyumn07/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/pradyumn07/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/pradyumn07/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/pradyumn07/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/pradyumn07/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pradyumn07/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/pradyumn07/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/pradyumn07/LeetCode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pradyumn07/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -965,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/pradyumn07/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumn07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pradyumn07/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/pradyumn07/LeetCode/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pradyumn07/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1337,4 +1341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/pradyumn07/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/pradyumn07/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
