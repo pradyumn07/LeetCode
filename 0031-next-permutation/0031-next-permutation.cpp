@@ -1,30 +1,25 @@
 class Solution {
- public:
-  void nextPermutation(vector<int>& nums) {
-    const int n = nums.size();
-
-    // From back to front, find the first number < nums[i + 1].
-    int i;
-    for (i = n - 2; i >= 0; --i)
-      if (nums[i] < nums[i + 1])
-        break;
-
-    // From back to front, find the first number > nums[i], swap it with
-    // nums[i].
-    if (i >= 0)
-      for (int j = n - 1; j > i; --j)
-        if (nums[j] > nums[i]) {
-          swap(nums[i], nums[j]);
-          break;
+public:
+    void nextPermutation(vector<int>& nums) {
+        int ind=-1;
+        int n=nums.size();
+        for(int i=n-2;i>=0;i--){
+            if(nums[i]<nums[i+1]){
+                ind=i;
+                break;
+            }
         }
-
-    // Reverse nums[i + 1..n - 1].
-    reverse(nums, i + 1, n - 1);
-  }
-
- private:
-  void reverse(vector<int>& nums, int l, int r) {
-    while (l < r)
-      swap(nums[l++], nums[r--]);
-  }
+        if(ind==-1){
+            reverse(nums.begin(),nums.end());
+            return;
+        }
+        for(int i=n-1;i>=0;i--){
+            if(nums[i]>nums[ind]){
+                swap(nums[i],nums[ind]);
+                break;
+            } 
+        }
+        reverse(nums.begin()+ind+1,nums.end());
+        
+    }
 };
