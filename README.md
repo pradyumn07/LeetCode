@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/pradyumn07/LeetCode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/pradyumn07/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pradyumn07/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/pradyumn07/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumn07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/pradyumn07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pradyumn07/LeetCode/tree/master/0229-majority-element-ii) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/pradyumn07/LeetCode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/pradyumn07/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/pradyumn07/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumn07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/pradyumn07/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
