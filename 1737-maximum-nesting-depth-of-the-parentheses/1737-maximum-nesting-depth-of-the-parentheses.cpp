@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        stack<char> st;
+        
         int maxi=0;
         int count=0;
         int i=0;
