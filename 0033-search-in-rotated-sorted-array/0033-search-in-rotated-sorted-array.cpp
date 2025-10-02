@@ -1,6 +1,21 @@
 class Solution {
 public:
-    int bs(int l,int r,vector<int> &nums,int target){
+    int n;
+    int pivot(vector<int> &nums){
+        int l=0,r=n-1;
+        while(l<r){
+            int mid=l+(r-l)/2;
+            if(nums[mid]<nums[r]){
+                r=mid;
+            }else{
+                l=mid+1;
+            }
+        }
+        return r;
+    }
+    int bs(vector<int>& nums, int target,int l,int r){
+        
+        
         while(l<=r){
             int mid=l+(r-l)/2;
             if(nums[mid]==target) return mid;
@@ -10,24 +25,11 @@ public:
         return -1;
     }
     int search(vector<int>& nums, int target) {
-        int n=nums.size();
-        int l=0,r=nums.size()-1;
-        int ans=0;
-        while(l<r){
-            int mid=l+(r-l)/2;
-            if(nums[mid]>nums[r]){
-                l=mid+1;
-            } else {
-                ans=r;
-                r=mid;
-            }
-        }
-        int pivot = l; 
-        if(target >= nums[pivot] && target <= nums[n - 1]){
-            return bs(pivot, n - 1, nums, target);
-        } else {
-            return bs(0, pivot - 1, nums, target);
-        }
-        
+        n=nums.size();
+        int l=0,r=n-1;
+        int p=pivot(nums);
+        if(bs(nums,target,0,p-1)!=-1) return bs(nums,target,0,p-1);
+        if(bs(nums,target,p,n-1)!=-1) return bs(nums,target,p,n-1);
+        return -1;
     }
 };
