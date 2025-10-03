@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/pradyumn07/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/pradyumn07/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pradyumn07/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/pradyumn07/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/pradyumn07/LeetCode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/pradyumn07/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pradyumn07/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/pradyumn07/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/pradyumn07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pradyumn07/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pradyumn07/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/pradyumn07/LeetCode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/pradyumn07/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/pradyumn07/LeetCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/pradyumn07/LeetCode/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/pradyumn07/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/pradyumn07/LeetCode/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/pradyumn07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pradyumn07/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -1232,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/pradyumn07/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/pradyumn07/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -1264,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/pradyumn07/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/pradyumn07/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pradyumn07/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pradyumn07/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
