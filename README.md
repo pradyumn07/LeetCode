@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/pradyumn07/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/pradyumn07/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/pradyumn07/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/pradyumn07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/pradyumn07/LeetCode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/pradyumn07/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pradyumn07/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/pradyumn07/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/pradyumn07/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/pradyumn07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/pradyumn07/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/pradyumn07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pradyumn07/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
